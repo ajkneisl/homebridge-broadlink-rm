@@ -43,8 +43,6 @@
         "no-extra-semi": "warn",
         "dot-notation": "warn",
         "no-autofix/prefer-const": "warn",
-
-        "indent": ["error", 2, { "SwitchCase": 1 }],
         "linebreak-style": ["error", "windows"],
         "curly": 1
     }
